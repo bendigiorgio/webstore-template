@@ -36,3 +36,5 @@ next-env.d.ts
 
 #side project
 /sanity-types-generator
+
+/.vscode
